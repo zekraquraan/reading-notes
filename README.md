@@ -58,3 +58,42 @@
 ## ALTER: used to modify the structure of an existing table or database
 ## JOIN: used to combine data from multiple tables based on a common key
 ## SQL is a powerful and widely used language, and it is essential for anyone who works with relational databases. Whether you are a developer, a data analyst, or a business analyst, having a solid understanding of SQL can help you to work more efficiently and effectively with data.
+
+
+
+
+## Command Line: A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+
+## Navigation: Many tasks rely on being able to get to, or reference the correct location in the system. As such, this stuff really forms the foundation of being able to work effectively in Linux. Make sure you understand it well.
+
+## pwd which stands for Print Working Directory. (You'll find that a lot of commands in linux are named as an abbreviation of a word or words describing them. This makes it easier to remember them.)
+
+
+
+## More about files:Linux is an Extensionless System ;This one can sometimes be hard to get your head around but as you work through the sections it will start to make more sense. A file extension is normally a set of 2 - 4 characters after a full stop at the end of a file, which denotes what type of file it is.
+## Linux is Case Sensitive,Spaces in file and directory names are perfectly valid but we need to be a little careful with them,
+
+
+## Manual Pages:man <command>
+## Look up the manual page for a particular command.
+## man -k <search term>
+
+## Do a keyword search for all manual pages containing the given search term.
+## /<term>
+## Within a manual page, perform a search for 'term'
+## n
+## After performing a search within a manual page, select the next found item
+
+
+## File Manipulation :mkdir
+## Make Directory - ie. Create a directory.
+## rmdir
+## Remove Directory - ie. Delete a directory.
+## touch
+## Create a blank file.
+## cp
+## Copy - ie. Copy a file or directory.
+## mv
+## Move - ie. Move a file or directory (can also be used to rename).
+## rm
+## Remove - ie. Delete a file.
