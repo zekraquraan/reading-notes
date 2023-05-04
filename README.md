@@ -31,7 +31,10 @@
 [Engineering Readings page](./engineering-readings.md)
 
 [Terminal](./terminal.md)
-[The Growth Mindset page](Mindset.md)
+
+
+
+[The Growth Mindset page](./Mindset.md)
 
 
 [Class-01](class1.md)
