@@ -26,6 +26,7 @@
 
 [Data structure page](./data-structure.md)
 
+[SQL](./databases-and-SQL.md)
 
 [Engineering Readings page](./engineering-readings.md)
 
