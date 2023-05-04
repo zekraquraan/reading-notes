@@ -30,7 +30,7 @@
 
 [Engineering Readings page](./engineering-readings.md)
 
-
+[Terminal](./terminal.md)
 [The Growth Mindset page](Mindset.md)
 
 
