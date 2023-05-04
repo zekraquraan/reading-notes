@@ -53,3 +53,10 @@
 # DROP TABLE table_name;
 
 [screen shot for lessons](./sql/)
+![image](./sql/sql1.png)
+![image](./sql/sql13.png)
+![image](./sql/sql14.png)
+![image](./sql/sql15.png)
+![image](./sql/sql16.png)
+![image](./sql/sql17.png)
+![image](./sql/sql2.png)
