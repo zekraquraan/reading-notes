@@ -14,7 +14,7 @@
 
 | Class # | Content |
 | ------- | ----- |
-| 1 |  [Class-01](class1.md/class1.md) |
+| 1 |  [Class-01](/class1.md) |
 | 2 |  [Class-02](class2.md) |
 | 3 |  [Class-03](/class-01.md) |
 | 4 | 	[Class-04](/class-01.md)  |
