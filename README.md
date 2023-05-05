@@ -16,7 +16,7 @@
 | ------- | ----- |
 | 1 |  [Class-01](/class1.md) |
 | 2 |  [Class-02](class2.md) |
-| 3 |  [Class-03](/class-01.md) |
+| 3 |  [Class-03](./class3.md) |
 | 4 | 	[Class-04](/class-01.md)  |
 | 5 | 	[Class-05](/class-01.md)  |
 | 6 | 	[Class-06](/class-01.md)  |
