@@ -20,7 +20,7 @@
 | 4 | 	[Class-04]( ./class4.md)|
 | 5 | 	[Class-05](./class5.md)  |
 | 6 | 	[Class-06](./class6.md)  |
-| 7 | 	[Class-07](/class-01.md)  |
+| 7 | 	[Class-07](./class7.md)  |
 | 8 | 	[Class-08](/class-01.md)  |
 
 
