@@ -55,3 +55,6 @@ print("Variance:", variance_value)
 # Calculate the standard deviation of the data
 std_deviation_value = statistics.stdev(data)
 print("Standard Deviation:", std_deviation_value)
+
+## Things I want to know more about
+more about dunder
