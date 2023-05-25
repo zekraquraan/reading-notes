@@ -24,6 +24,7 @@
 | 8 | 	[Class-08](./class8.md)  |
 | 9 |   [class-09](./class9.md)  |
 | 10 |  [class-10](./class10.md) |
+| 11 | [class-11](./class11.md)  |
 
 [Data structure page](./data-structure.md)
 
