@@ -27,6 +27,7 @@
 | 17 | [class-17](./class-17.md) |
 | 26 | [class-26](./class-26.md) |
 | 27 | [class-27](./class27.md)  |
+| 28 | [class-28](./class28.md)  |
 
 [Data structure page](./data-structure.md)
 
