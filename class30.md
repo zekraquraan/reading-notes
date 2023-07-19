@@ -112,3 +112,6 @@ max
 4
 {\displaystyle \alpha _{\max }/4}.[9] Acceptable figures of load factor 
 �\alpha  should range around 0.6 to 0.75.[10][11]: 110 
+
+##  THings i want to know ?
+more about hash map
