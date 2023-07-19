@@ -23,7 +23,7 @@ Template inheritance is a powerful feature of Django Templates that enhances cod
 
 Child templates inherit from the base template and can override specific blocks to provide their own content. This allows you to reuse the overall structure of the base template while customizing specific sections for different pages or sections of your website. By using template inheritance, you avoid duplicating code and make it easier to maintain a consistent look and feel across your site.
 
-To utilize template inheritance, you typically define a base template with the {% block %} tag to specify the areas that can be overridden. Then, you create child templates that extend the base template using the {% extends %} tag and override specific blocks using the {% block %} tag. The child templates can also choose to include or extend additional templates as needed.
+<!-- To utilize template inheritance, you typically define a base template with the {% block %} tag to specify the areas that can be overridden. Then, you create child templates that extend the base template using the {% extends %} tag and override specific blocks using the {% block %} tag. The child templates can also choose to include or extend additional templates as needed. -->
 
 Overall, Django Forms and Templates work together to provide a seamless way to handle user input, validate and process form data, and generate dynamic HTML content. They help developers build interactive web applications while maintaining a separation of concerns and promoting code reusability and maintainability.
 
