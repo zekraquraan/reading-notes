@@ -106,7 +106,8 @@ Django: Primarily focused on rendering HTML templates for browsers.
 Django REST framework: Designed to handle multiple response formats like JSON, XML, and others, catering to API clients.
 In summary, Django is a comprehensive web framework for building complete web applications, whereas Django REST framework is an extension of Django that specializes in creating Web APIs, making it easier to build robust and flexible API-driven applications.
 
-
+## Things I want to know more about
+more about Django 
 
 
 
