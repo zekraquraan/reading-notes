@@ -30,6 +30,7 @@
 | 28 | [class-28](./class28.md)  |
 | 29 | [class-29](./class29.md)  |
 | 30 | [class-30](./class30.md)  |
+| 31 | [class-31](./class31.md)  |
 
 [Data structure page](./data-structure.md)
 
